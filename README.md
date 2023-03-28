@@ -1,1 +1,1 @@
-# text_mining_group_project
+# Text Mining for AI Final Project
